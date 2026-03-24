@@ -1,6 +1,6 @@
 [project]
 name = "fastsend"
-version = "1.0.3"
+version = "1.0.4"
 description = "Send data locally, fast!"
 readme = "README.md"
 authors = [
