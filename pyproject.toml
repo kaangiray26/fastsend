@@ -15,6 +15,11 @@ dependencies = [
     "uvicorn>=0.42.0",
 ]
 
+[project.urls]
+Homepage = "https://github.com/kaangiray26/fastsend"
+Repository = "https://github.com/kaangiray26/fastsend"
+Issues = "https://github.com/kaangiray26/fastsend/issues"
+
 [project.scripts]
 fastsend = "fastsend.main:app"
 
